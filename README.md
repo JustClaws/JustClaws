@@ -7,7 +7,7 @@ Mostly via Linux; developer support code, mostly with C, or game engine language
 
 - 🌱 I’m currently learning ...
 "Life, the universe and everything."
-- More programming languages... I started in 1982 with Sinclair ZX Spectrum BASIC, then Z80 assembler, Pascal, C, M68000 assembly, COBOL, 8086 assembly, Atari Jaguar RISC assembly, and libraries like SDL2. I've used some weird platforms over the years, and love adding more.
+- More programming languages... I started in 1982 with Sinclair ZX Spectrum BASIC, then Z80 assembler, Pascal, C, M68000 assembly, COBOL, 8086 assembly, Atari Jaguar RISC assembly, and libraries like SDL2. I've used some weird platforms over the years, and love adding more, like recently coding for the Philips Videopac.
 
 - 🌱 Game Engines keep evolving... so I am always learning... and specifically lately... 
 - Godot
